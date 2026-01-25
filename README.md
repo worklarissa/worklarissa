@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Systems Development and Data Engineer<br>📚 I'm currently learning development and data <br>🎯 Goals: improve my knowledge in Web Development and Data Engineer<br>🎲 Fun fact: I like basketball</p>
+<p align="left">✨ Systems Developer and Data Engineer<br>📚 I'm currently learning development and data <br>🎯 Goals: improve my knowledge in Web Development and Data Engineer<br>🎲 Fun fact: I like basketball</p>
 
 ###
 
